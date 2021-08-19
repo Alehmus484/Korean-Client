@@ -1,2 +1,1 @@
-# Korean-Client
-Lol-KoreanClient
+# Lol-KoreanClient
